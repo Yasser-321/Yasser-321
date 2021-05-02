@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Yousof 
+- 👀 I’m interested in learning python for web applications
+- 🌱 I’m currently learning basic of python, I have learned the basic and trying to learn intermediate syntax.
+- 💞️ I’m looking to collaborate on building web applications.
